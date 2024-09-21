@@ -306,17 +306,17 @@ return [
         ],
 
         // Sidebar items:
-        ['header' => 'financial', 'classes' => 'h1 text-yellow text-bold'],
-        [
-            'text' => 'receipt',
-            'url' => 'admin/receipt',
-            'icon' => 'fas fa-fw fa-receipt',
-        ],
-        [
-            'text' => 'report',
-            'url' => 'admin/receipt/report',
-            'icon' => 'fas fa-chart-bar',
-        ],
+        // ['header' => 'financial', 'classes' => 'h1 text-yellow text-bold'],
+        // [
+        //     'text' => 'receipt',
+        //     'url' => 'admin/receipt',
+        //     'icon' => 'fas fa-fw fa-receipt',
+        // ],
+        // [
+        //     'text' => 'report',
+        //     'url' => 'admin/receipt/report',
+        //     'icon' => 'fas fa-chart-bar',
+        // ],
 
         ['header' => 'account_settings', 'classes' => 'h1 text-yellow text-bold'],
         [

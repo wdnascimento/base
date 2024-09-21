@@ -29,8 +29,8 @@ class IndexController extends Controller
 
     public function index()
     {
-        $data['receipt']= $this->receipt->count();
-        $data['sum_receipt']= $this->receipt->sum('value');
+        // $data['receipt']= $this->receipt->count();
+        // $data['sum_receipt']= $this->receipt->sum('value');
 
         $params = $this->params;
         return view('admin.home', compact('params','data'));

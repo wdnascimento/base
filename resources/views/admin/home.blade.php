@@ -11,7 +11,7 @@
         <!-- Small boxes (Stat box) -->
 	      <div class="row">
 
-            <div class="col-lg-6 col-xs-6">
+            {{-- <div class="col-lg-6 col-xs-6">
 	          <!-- small box -->
 	          <div class="small-box bg-info">
 	            <div class="inner">
@@ -37,7 +37,7 @@
 	            </div>
                 <a href="{{ route('admin.receipt.report') }}" class="small-box-footer">Ver Todas <i class="fa fa-plus"></i></a>
 	          </div>
-	        </div>
+	        </div> --}}
 	        {{-- <!-- ./col -->
 	        <div class="col-lg-3 col-xs-6">
 	          <!-- small box -->
