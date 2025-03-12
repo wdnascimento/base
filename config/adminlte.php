@@ -14,7 +14,7 @@ return [
     |
     */
 
-    'title' => 'Semear',
+    'title' => 'Laravel',
     'title_prefix' => '',
     'title_postfix' => '',
 
@@ -63,7 +63,7 @@ return [
     |
     */
 
-    'logo' => 'Semear',
+    'logo' => 'Laravel',
     'logo_img' => 'assets/img/logo.svg',
     'logo_img_class' => 'brand-image p-0 m-0 mr-2 bg-white justify-content-center',
     'logo_img_xl' => null,
